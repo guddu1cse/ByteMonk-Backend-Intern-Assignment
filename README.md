@@ -44,7 +44,7 @@ This project is a Spring Boot application designed to manage incidents within an
                                                 │   │       ├── Entity                # Entities for database
                                                 │   │       ├── Repo                  # Repositories for CRUD operations
                                                 │   │       ├── Service               # Business logic layer
-                                                |   |           ├── Impl              # Bussiness Logic Implementation
+                                                |   |           └── Impl              # Bussiness Logic Implementation
                                                 │   │       ├── JwtUtils              # JWT Token utilities
                                                 |   |       ├── JwtFilter             # JWT Token Filter Chain
                                                 |   |       ├── Response              # Responses Classes
